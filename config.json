@@ -1,0 +1,16 @@
+{
+	"peers":[
+		"localhost:13000:peer0",
+		"localhost:13001:peer1"
+	],
+	"servers":[
+		"localhost:15000",
+		"localhost:15001",
+		"localhost:15002",
+		"localhost:15003",
+		"localhost:15004",
+		"localhost:15005",
+		"localhost:15006",
+		"localhost:15007"
+	]
+}
